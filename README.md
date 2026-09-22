@@ -110,21 +110,6 @@ AI 기반 쿠버네티스 장애 탐지 SaaS (캡스톤, 팀 4명)
 
 <br/>
 
-## 🏆 Trophy Room
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LEESEOJUN-creator&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐯 Contribution Tiger
-
-<img src="https://raw.githubusercontent.com/LEESEOJUN-creator/LEESEOJUN-creator/output/tiger.svg" width="90%" />
 
 </div>
 
