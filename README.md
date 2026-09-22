@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**LEESEOJUN-creator/LEESEOJUN-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:EC4899&height=220&section=header&text=이서준&fontSize=55&fontColor=FDE68A&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
@@ -60,6 +44,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,docker,kubernetes,githubactions,grafana,git,idea,vscode,notion,slack&theme=dark" />
+
+<sub>Java · Spring Boot · MySQL · PostgreSQL · Redis · Docker · Kubernetes · GitHub Actions · Grafana · Git · IntelliJ IDEA · VS Code · Notion · Slack</sub>
 
 </div>
 
@@ -124,14 +110,11 @@ AI 기반 쿠버네티스 장애 탐지 SaaS (캡스톤, 팀 4명)
 
 <br/>
 
-## 📊 GitHub Stats
+## 🏆 Trophy Room
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LEESEOJUN-creator&show_icons=true&theme=radical&hide_border=true&hide_rank=true&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEESEOJUN-creator&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LEESEOJUN-creator&theme=radical&hide_border=true&background=00000000" />
+<img src="https://github-profile-trophy.vercel.app/?username=LEESEOJUN-creator&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
 </div>
 
